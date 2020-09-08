@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - Classmethod Test 2
+                    Laravel - Classmethod Test 2 - github
                 </div>
 
                 <div class="links">
